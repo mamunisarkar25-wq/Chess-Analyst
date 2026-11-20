@@ -1,0 +1,6 @@
+{
+  "name": "Chess Analyst",
+  "description": "Offline-first Android chess game review and position analysis app with Stockfish tactical analysis, optional local Maia-3 ONNX human move predictions, PGN/FEN tools, and public Chess.com game import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

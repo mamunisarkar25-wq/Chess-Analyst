@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chess Analyst</string>
+    <string name="home_subtitle">Offline-first tactical review &amp; human move intelligence</string>
+    <string name="home_no_account_badge">No account • No database • Local analysis</string>
+    <string name="action_import_pgn">Import PGN</string>
+    <string name="action_import_pgn_desc">Open .pgn files or paste single &amp; multi-game notation</string>
+    <string name="action_import_fen">Import FEN</string>
+    <string name="action_import_fen_desc">Paste FEN or edit pieces on an interactive board</string>
+    <string name="action_chess_com">Chess.com Games</string>
+    <string name="action_chess_com_desc">Fetch your latest 10 public games by username</string>
+    <string name="section_session_recent">Analyzed This Session</string>
+    <string name="session_recent_empty">No games analyzed yet in this session. Import a PGN, load a FEN position, or fetch public Chess.com games to begin.</string>
+    <string name="session_ephemeral_note">Session data stays in memory only and clears when you exit.</string>
+    <string name="phase_not_reached">Not reached in this game.</string>
+    <string name="nav_back">Navigate back</string>
+    <string name="cd_flip_board">Flip board perspective</string>
+    <string name="cd_share_pgn">Export annotated PGN</string>
+    <string name="cd_engine_settings">Engine &amp; Maia-3 model settings</string>
+    <string name="cd_methodology_info">Classification methodology info</string>
+</resources>
